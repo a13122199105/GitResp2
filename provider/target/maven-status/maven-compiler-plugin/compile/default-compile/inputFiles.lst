@@ -1,0 +1,8 @@
+D:\workspace\dubbo-user\provider\src\main\java\com\gupao\vip\mic\dubbo\exception\ServiceException.java
+D:\workspace\dubbo-user\provider\src\main\java\com\gupao\vip\mic\dubbo\dal\entity\User.java
+D:\workspace\dubbo-user\provider\src\main\java\com\gupao\vip\mic\dubbo\dal\persistence\UserMapper.java
+D:\workspace\dubbo-user\provider\src\main\java\com\gupao\vip\mic\dubbo\services\UserLoginService.java
+D:\workspace\dubbo-user\provider\src\main\java\com\gupao\vip\mic\dubbo\main\Bootstrap.java
+D:\workspace\dubbo-user\provider\src\main\java\com\gupao\vip\mic\dubbo\exception\ValidateException.java
+D:\workspace\dubbo-user\provider\src\main\java\com\gupao\vip\mic\dubbo\services\UserQueryService.java
+D:\workspace\dubbo-user\provider\src\main\java\com\gupao\vip\mic\dubbo\exception\ExceptionUtil.java
